@@ -1,0 +1,2 @@
+12.select c.*,avg(net_total) from customer as c inner join order as o on c.id=o.customer_id;OR
+   select customer_id,avg(net_total) from order group by customer_id;

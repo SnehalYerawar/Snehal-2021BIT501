@@ -1,0 +1,1 @@
+11.select id from customer as c inner join order as o on c.id=o.customer_id where total_quantity!=null;

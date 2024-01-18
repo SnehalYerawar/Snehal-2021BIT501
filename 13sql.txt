@@ -1,0 +1,1 @@
+13.Alter table customer set city="mumbai" where city="Delhi";

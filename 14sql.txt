@@ -1,0 +1,1 @@
+14.Delete * from logs where curdate-datetime=1;
